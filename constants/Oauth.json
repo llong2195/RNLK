@@ -1,0 +1,13 @@
+{
+    
+    "status" : false,
+    "userLogin" : {
+        "fname":"admin",
+        "lname":"admin",
+        "pass":"123",
+        "phone":"1234",
+        "email":"llong2195@gmail.com",
+        "birthday": "",
+        "order":[]
+    }
+}

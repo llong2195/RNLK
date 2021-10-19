@@ -1,0 +1,10 @@
+{
+    "cart":[
+        {
+            "name":"abc",
+            "price":123,
+            "thumbnail":"https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/28/637395003614847177_asus-tuf-fx506-xam-1.png",
+            "qty":1
+        }
+    ]
+}

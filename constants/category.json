@@ -1,0 +1,47 @@
+{
+    "category" : [
+        {
+            "name":"MSI",
+            "title" : "TRUE GAMING, SOME ARE PC, WE ARE GAMING",
+            "image": "https://i.pinimg.com/736x/fe/28/66/fe2866366144e010487a29f5747a47f6.jpg",
+            "key" : 0,
+            "background_img":"https://wallpaperaccess.com/full/112319.jpg"
+        },
+        {
+            "image": "https://dlcdnrog.asus.com/rog/media/1596119629917.png",
+            "name":"ASUS",
+            "title" : "IN SEARCH OF INCREDIBLE",
+            "key" : 1,
+            "background_img":"https://images.hdqwalls.com/wallpapers/asus-gamer-rog-4k-06.jpg"
+        },
+        {
+            "image": "https://i.pinimg.com/originals/b2/58/98/b2589800e48f319a9b297372e08f2d7f.gif",
+            "name":"DELL",
+            "title" : "THE POWER TO DO MORE",
+            "key" : 2,
+            "background_img":"https://i.pinimg.com/originals/5f/5b/d6/5f5bd63be5cf283109883ffe086dd286.jpg"
+        },
+        {
+            "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c1453fab-ec76-4075-ace3-e76a1f05cbf4/de3h39v-53111ab4-2e3e-4796-abd4-7845ef8c5f59.jpg/v1/fill/w_1280,h_720,q_75,strp/acer_predator_helios_300_personalized_wallpaper_by_rrcampong_de3h39v-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYzE0NTNmYWItZWM3Ni00MDc1LWFjZTMtZTc2YTFmMDVjYmY0XC9kZTNoMzl2LTUzMTExYWI0LTJlM2UtNDc5Ni1hYmQ0LTc4NDVlZjhjNWY1OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TddAszPKwIjW9YHzBROoyibIDtVTYR0oQyRLLLtQuyw",
+            "name":"ACER",
+            "title" : "EXPLORE BEYOND LIMITS",
+            "key" : 3,
+            "background_img":"https://img.redbull.com/images/c_crop,x_0,y_0,h_5504,w_8256/c_fill,w_790,h_527/q_auto,f_auto/redbullcom/2017/12/13/99abc85b-7968-4bbe-8c0f-78bd9c955731/predator-badge"
+        },
+        {
+            "image": "https://images.hdqwalls.com/download/aorus-gigabyte-2020-4k-k1-1125x2436.jpg",
+            "name":"GIGABYTE",
+            "title" : "UPGRADE YOUR LIFE",
+            "key" : 4,
+            "background_img":"https://i.pinimg.com/originals/32/97/83/3297839f77543b581c348df50912904e.jpg"
+        },
+        {
+            "image": "https://images.hdqwalls.com/walls/thumb/razer-lights-4k-wv.jpg",
+            "name":"RAZER",
+            "title" : "FOR GAMERS, BY GAMERS",
+            "key" : 5,
+            "background_img":"https://images6.alphacoders.com/922/thumb-1920-922275.png"
+        }
+        
+    ]
+}

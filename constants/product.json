@@ -1,0 +1,514 @@
+{
+    "product":[
+        {
+            "name":"Laptop Asus TUF Gaming FX506LH-HN002T (I5 10300H/ 8GB/ 512GB SSD/ 15.6FHD-144Hz/ GTX1650 4GB/ Win10/ Grey/ RGB_KB)",
+            "category":"ASUS",
+            "price":22390000 ,
+            "type":"Laptop",
+            "thumbnail":"https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/28/637395003614847177_asus-tuf-fx506-xam-1.png",
+            "key" : 0,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Màn hình Asus ROG XG279Q (27inch/2K/IPS/170Hz/1ms/400nits/HDMI+DP+USB)",
+            "category":"ASUS",
+            "price":17669000,
+            "type":"Screen",
+            "thumbnail":"https://hanoicomputercdn.com/media/product/53917_xg279q__7_.png",
+            "key" : 1,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Mainboard MSI B460M-PRO (Chipset Intel B460/ Socket LGA1200/ VGA onboard)",
+            "category":"MSI",
+            "price":1959000,
+            "type":"Mainboard",
+            "thumbnail":"https://phucanhcdn.com/media/product/38971_b460m_pro_vdh_wifi_ha1.jpg",
+            "key" : 2,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Laptop MSI Gaming Stealth 15M A11UEK 232VN (i7-11375H/ 16GB/ 500GB SSD/ 15.6FHD, 144Hz/ RTX3060 6GB/ Win10/ Black/ Balo)    ",
+            "category":"MSI",
+            "price":41990000,
+            "type":"Laptop",
+            "thumbnail":"https://thenewxgear.com/wp-content/uploads/2021/07/Steal-15-Blue-1.jpg",
+            "key" : 3,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Nguồn máy tính Super Flower Leadex Platinum 2000W",
+            "category":"GIGABYTE",
+            "price":12490000 ,
+            "type":"PSU",
+            "thumbnail":"https://hanoicomputercdn.com/media/product/48660_nguon_super_flower_leadex_platinum_2000w_sf_2000f14hp_0000_unnamed.jpg",
+            "key" : 4,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Ram Corsair Vengeance RGB Pro 16GB (2x8GB) DDR4 3000MHz",
+            "category":"CORSAIR",
+            "price":3099000,
+            "type":"Ram",
+            "thumbnail":"https://www.playzone.vn/image/catalog/san%20pham/corsair/RAM/1-1.jpg",
+            "key" : 5,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Vỏ Case Asus ROG STRIX HELIOS GX601 (White edition)",
+            "category":"ASUS",
+            "price":7899000,
+            "type":"Case",
+            "thumbnail":"https://nguyencongpc.vn/photos/17/ASUS-ROG-Strix-Helios-GX601-White-Edition-5.JPG",
+            "key" : 6,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"CPU AMD Ryzen 5 5600X / 32MB / 3.7GHz Boost 4.6GHz / 6 nhân 12 luồng",
+            "category":"AMD",
+            "price":6899000,
+            "type":"CPU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/-products-amd-ryzen-5-5600x-32mb-3-7ghz-boost-4-6ghz-6-nhan-12-luong-1_064ea02033974b0fae49158951cc74dd.png",
+            "key" : 7,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"VGA Palit GeForce GTX 1660 SUPER GP 6GB GDDR6 (NE6166S018J9-1160A-1)",
+            "category":"Palit",
+            "price":6699000,
+            "type":"VGA",
+            "thumbnail":"https://anphat.com.vn/media/product/37641_2.jpg",
+            "key" : 8,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Laptop Acer Nitro 5 AMD AN515-45-R0B6 NH.QBCSV.001 (Ryzen 7-5800H | 8GB | 512GB | RTX 3060 6GB | 15.6 inch FHD | Win 10 | Đen)",
+            "category":"ACER",
+            "price":23490000,
+            "type":"Laptop",
+            "thumbnail":"https://cdn.ankhang.vn/media/product/19433_laptop_acer_nitro_5_an515_45_r0b6_1.jpg",
+            "key" : 9,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Laptop Acer Aspire 3 A315-23-R1XZ NX.HVUSV.005 (Ryzen 3-3250U/RAM 4GB/256GB SSD/AMD Graphics/15.6 inch IPS/Win10)",
+            "category":"ACER",
+            "price":11990000,
+            "type":"Laptop",
+            "thumbnail":"https://cdn.mediamart.vn/Upload/images/11(124).png",
+            "key" : 10,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Chuột Logitech G502 Hero KDA",
+            "category":"LOGITECH",
+            "price":1799000,
+            "type":"Mouse",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/thumbchuot_be9a45ef2bec4b7e9dfaf83c2d37ad27.png",
+            "key" : 11,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Bàn phím Logitech G PRO KDA",
+            "category":"LOGITECH",
+            "price":3269000,
+            "type":"Keyboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/thumbphim_70ead74c39aa424d9d2eef014f2a05f5.png",
+            "key" : 12,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Tai nghe Logitech G733 KDA Lightspeed Wireless",
+            "category":"LOGITECH",
+            "price":3269000,
+            "type":"Headphone",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/g733_6f97109db5774b769bf60c5d225d8254.png",
+            "key" : 13,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"ASUS TUF GAMING B550M (WI-FI) ZAKU II Edition",
+            "category":"ASUS",
+            "price":5269000,
+            "type":"Mainboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/04_f6e5de0e77af4a36b9428a437f9d8c16.png",
+            "key" : 14,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"GIGABYTE B460M AORUS PRO (rev. 1.0)",
+            "category":"GIGABYTE",
+            "price":2690000,
+            "type":"Mainboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/b460m-aorus-pro-rev-1-1_f0851ae9f9e94ecc93a620ca3cb5223d.png",
+            "key" : 15,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"ASROCK B550M Steel Legend",
+            "category":"ASROCK",
+            "price":3790000,
+            "type":"Mainboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/b550m-steel-legend-1_bbe670dca27840b38b4d5fef155021dc.png",
+            "key" : 16,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"AMD Ryzen 7 3700x /36MB /3.6GHz /8 nhân 16 luồng",
+            "category":"AMD",
+            "price":8590000,
+            "type":"CPU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/ryzen_7_gen3_gearvn_e57dcfb17d714ba290fda9c2bb970916.jpg",
+            "key" : 17,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"CPU Intel Xeon Gold 6252 / 35.75 MB / 2.1GHz / 24 nhân 48 luồng / LGA 3647",
+            "category":"Intel",
+            "price":103700000,
+            "type":"CPU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/cpu-intel-xeon-gold-6252-35-75-mb-2-1ghz-24-nhan-48-luong-lga-3647-1_b2b59fa976c749dda23c9d24ee20738d.jpg",
+            "key" : 18,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"CPU Intel Xeon Platinum 8280 / 38.5 MB / 2.7GHz turbo / 28 nhân 56 luồng / LGA 3647",
+            "category":"Intel",
+            "price":285000000,
+            "type":"CPU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/el-xeon-platinum-8280-38-5-mb-2-7ghz-turbo-28-nhan-56-luong-lga-3647-1_6119ab8d51c9468da201e35192de0105.jpg",
+            "key" : 19,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"(8GB DDR4 1x8GB 3200) RAM TeamGroup T-Force Delta RGB White",
+            "category":"T-Force Delta",
+            "price":1390000,
+            "type":"Ram",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/68e91758f660b09202afa1d25c9ef748_de239228b8934ef7bbab782a6bb7771d_0ee010bf31a14b4e87e3c0f8a00f4555.jpg",
+            "key" : 20,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"(16G DDR4 2x8G 3200) G.SKILL Trident Z Royal RGB GOLD CL16-18-18-38",
+            "category":"G.SKILL",
+            "price":4490000,
+            "type":"Ram",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gskill_tridentz_royal_gearvn00_f1c7e80894854252a7f226f168b80b04.jpg",
+            "key" : 21,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"(32G DDR4 2x16G 3200) Corsair Dominator Platinum RGB CL16-20-20-38 White",
+            "category":"CORSAIR",
+            "price":7190000,
+            "type":"Ram",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/orsair-dominator-platinum-rgb-white-2_de089f0593aa4b429c6da5e07e53b9f3_2555497604214b6ea1f17ae8b1e58b68.png",
+            "key" : 22,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"ASUS ROG Strix GeForce RTX 3090 Gaming White OC edition 24G",
+            "category":"ASUS",
+            "price":68990000,
+            "type":"VGA",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/h732__12__bae8536de3fb4607a8aaabec01cb6a65.png",
+            "key" : 23,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"MSI GeForce RTX 3090 GAMING X TRIO 24G",
+            "category":"MSI",
+            "price":66990000,
+            "type":"VGA",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn-geforce-rtx-3090-gaming-x-trio-24g-66_19b3f78b95bc46af9956ad3334281e72.png",
+            "key" : 24,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Gigabyte Aorus GeForce RTX 3080 Xtreme Waterforce 10G",
+            "category":"GIGABYTE",
+            "price":40990000,
+            "type":"VGA",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/img11_22a3637f196842f6a1a93fb39df52699.png",
+            "key" : 25,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"SSD Samsung 870 EVO 250GB 2.5' SATA III",
+            "category":"SAMSUNG",
+            "price":1690000,
+            "type":"Hard Drive",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/870_evo_1_1c78686c947c458a849dd2d0b78b0d11_8b2ab2fa9f4b455ca12fcad1fe03d945.jpg",
+            "key" : 26,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Gigabyte SSD AORUS RGB M.2 NVMe 512GB",
+            "category":"GIGABYTE",
+            "price":2990000,
+            "type":"Hard Drive",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/aorus_rgb_ssd_gearvn_a7d64544d02543348ee0a03f75775212.png",
+            "key" : 27,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"SSD Samsung 870 QVO 4TB 2.5 Inch SATA III",
+            "category":"SAMSUNG",
+            "price":10990000,
+            "type":"Hard Drive",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn.com-products-ssd-samsung-860-qvo-4tb_3_d420e6ef97f046398599c649863a8e19.jpg",
+            "key" : 28,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Case INWIN WINBOT",
+            "category":"In Win",
+            "price":89990000,
+            "type":"Case",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/inwin-winbot-8_da8c7f71169d46aeb9d990db87b3e787.jpg",
+            "key" : 29,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Case Corsair OBSIDIAN 1000D ( SUPER-TOWER )",
+            "category":"CORSAIR",
+            "price":12990000,
+            "type":"Case",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn-case-corsair-obsidian-1000d_09f9e49270e0413eb4929986f77cfd23.jpg",
+            "key" : 30,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Case Cooler Master Cosmos C700P Black Edition",
+            "category":"Cooler Master",
+            "price":8990000,
+            "type":"Case",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gvn_cosmos_c700p_black_edition_52596d5816ba404cbd563991e5756284.jpg",
+            "key" : 31,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Case Cougar ConQuer 2 - Full Tower",
+            "category":"Cougar",
+            "price":7990000,
+            "type":"Case",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/conquer-2-1_e2c630a85f094e2083e228a555462cbf.png",
+            "key" : 32,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Màn hình Acer EK241Y 24' IPS 75Hz",
+            "category":"ACER",
+            "price":3990000,
+            "type":"Screen",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/acer_ek241y_gearvn_edba05af88ce47448e99d76573d3b1c0.jpg",
+            "key" : 33,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Màn hình LG 27GL850 UltraGear 27' Nano IPS 2K 144Hz 1ms HDR G-Sync",
+            "category":"LG",
+            "price":10890000,
+            "type":"Screen",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/27gl850g_gearvn_mh_b609c3d40db942d3adbbbe79cdd86b6b.jpg",
+            "key" : 34,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Màn hình HKC MB24V9 24' IPS 75Hz",
+            "category":"HKC",
+            "price":3790000,
+            "type":"Screen",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/hkc_mb24v9_gearvn_be09fd4ac7104552977afe25336e55b1.jpg",
+            "key" : 35,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Màn hình MSI OPTIX G272 27' IPS 144Hz chuyên game",
+            "category":"MSI",
+            "price":6990000,
+            "type":"Screen",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/g272_gearvn_421240524cdb420dabf9530f2e3d643e.jpg",
+            "key" : 36,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Màn hình cong Cooler Master GM34-CW 34' 2K 144Hz Gsync compatible",
+            "category":"Cooler Master",
+            "price":11990000,
+            "type":"Screen",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/cm_gm34-cw_gearvn_3989c0272aa54eca9e99b7b4432d5e6a.jpg",
+            "key" : 37,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"( 1600W ) Nguồn Corsair AX1600i - 1600 Watt - 80 Plus Titanium - Full Modular",
+            "category":"CORSAIR",
+            "price":12990000,
+            "type":"PSU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/cosair_ax1600i.jpg",
+            "key" : 38,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"( 1200W ) Nguồn ASUS Rog Thor 1200P - 80 Plus Platinum - Full Modular",
+            "category":"ASUS",
+            "price":9490000,
+            "type":"PSU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/rog-thor-1200p_box_psu_5700a08d814447068ea62b231604557d.png",
+            "key" : 39,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"( 1000W ) Nguồn GIGABYTE P1000GM - 80 Plus Gold - Full Modularr",
+            "category":"GIGABYTE",
+            "price":4290000,
+            "type":"PSU",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/img7_9e040d2e48fd4165be4f2875544d453c.png",
+            "key" : 40,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Bàn phím Razer Blackwidow Green Switch",
+            "category":"RAZER",
+            "price":3990000,
+            "type":"Keyboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/razer_blackwidow_a77fb116418d4186b7cb4bb170cd5cb8.jpg",
+            "key" : 41,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Bàn phím Asus ROG Strix Scope TKL",
+            "category":"ASUS",
+            "price":3390000,
+            "type":"Keyboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn-ban-phim-asus-rog-strix-scope-tkl-66_7c6b62c57b0d4999b424fb383de5a37a.jpg",
+            "key" : 42,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Bàn phím Corsair K63 Wireless",
+            "category":"CORSAIR",
+            "price":2990000,
+            "type":"Keyboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn-corsair-k63_wireless_1.png",
+            "key" : 43,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Bàn phím Logitech G913 TKL Lightspeed Wireless",
+            "category":"LOGITECH",
+            "price":5990000,
+            "type":"Keyboard",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/g913-tkl-wireless_d797df2d3e01485ab3baad39a1040cd3.png",
+            "key" : 44,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Chuột Razer Viper 8KHz",
+            "category":"RAZER",
+            "price":1990000,
+            "type":"Mouse",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/thumbchuot_c2b9e3d4843742b488d2e0aab0212fdd.png",
+            "key" : 45,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Chuột gaming Logitech G300S",
+            "category":"LOGITECH",
+            "price":290000,
+            "type":"Mouse",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/dm8xxy_633efb36a8b44c89bdc6a1acd0e7efea.jpg",
+            "key" : 46,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Chuột gaming Dare-U A960 Ultralight",
+            "category":"Dare-U",
+            "price":740000,
+            "type":"Mouse",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn-chuot-gaming-dare-u-a960-ultralight-666_a3ced07290d5416baf40299d783314fd.jpg",
+            "key" : 47,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Tai Nghe Asus ROG Strix Fusion 300",
+            "category":"ASUS",
+            "price":2740000,
+            "type":"Headphone",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/gearvn-asus-rog-strix-fusion-300.jpg",
+            "key" : 48,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Tai nghe Razer Hammerhead PRO V2",
+            "category":"RAZER",
+            "price":940000,
+            "type":"Headphone",
+            "thumbnail":"https://hstatic.net/716/1000026716/1/2016/5-7/3d2d1c331e6247a5a224b20331050de7.png",
+            "key" : 49,
+            "description":"",
+            "comment":[]
+        },
+        {
+            "name":"Tai nghe Gaming Logitech G335 Black",
+            "category":"LOGITECH",
+            "price":1540000,
+            "type":"Headphone",
+            "thumbnail":"https://product.hstatic.net/1000026716/product/g335-6_e1253941f7e3484890523aa330eecdff.jpg",
+            "key" : 50,
+            "description":"",
+            "comment":[]
+        }
+    ]
+}

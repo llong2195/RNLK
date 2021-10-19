@@ -1,0 +1,32 @@
+{
+    "user":[
+        {
+            "fname":"Kien",
+            "lname":"Nguyen",
+            "pass":"1234",
+            "phone":"0927015206",
+            "email":"kienteo1012@gmail.com",
+            "birthday": "",
+            "order":[]
+        },
+        {
+            "fname":"Kien",
+            "lname":"Gay",
+            "pass":"1234",
+            "phone":"12345",
+            "email":"nkien6962@gmail.com",
+            "birthday": "",
+            "order":[]
+        },
+        
+        {
+            "fname":"Long",
+            "lname":"Nguyen",
+            "pass":"123",
+            "phone":"1234",
+            "email":"nduylong9501@gmail.com",
+            "birthday": "",
+            "order":[]
+        }
+    ]
+}

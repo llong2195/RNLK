@@ -1,0 +1,34 @@
+const data = {
+    "cart": [
+        {
+            "name": "abc",
+            "qty": 1
+        },
+        {
+            "name": "Màn hình Asus ROG XG279Q (27inch/2K/IPS/170Hz/1ms/400nits/HDMI+DP+USB)",
+            "qty": 1
+        }
+    ]
+}
+
+
+pushCart = (name) => {
+    const Acart = [...data.cart];
+    let isUpdate = false;
+    Acart.map((item) => {
+        if (name === item.name) {
+            isUpdate = true;
+            ++item.qty;
+        }
+        return item;
+    })
+    console.log(Acart);
+    if (!isUpdate) {
+        Acart.push({ "name": name})
+    }
+    // this.setState({cart : Acart})
+}
+
+
+pushCart("abc")
+console.log(data);
